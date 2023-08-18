@@ -4,6 +4,7 @@ Projeto de site para a escola AMAS - O Semeador
 ## To Do
 - [ ] Tirar Fotos
 - [ ] Todo o resto
+- [ ] Criar UI
 
 ## Desenvolvedores:
 
