@@ -13,3 +13,6 @@ Projeto de site para a escola AMAS - O Semeador
 - Pedro Henrique Pereira Cabral
 - Enzo Rodrigues Dourado
 - Adriel Trujilo Vilas-Boas
+
+> [!NOTE]
+> Não representamos a instituição
