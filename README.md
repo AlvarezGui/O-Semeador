@@ -1,6 +1,10 @@
 # O Semeador
 Projeto de site para a escola AMAS - O Semeador
 
+## To Do
+[ ] Tirar Fotos
+[ ] Tudo
+
 ## Desenvolvedores:
 
 - Guilherme Loschiavo Alvarez
