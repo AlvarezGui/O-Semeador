@@ -1,7 +1,7 @@
 # O Semeador
 Projeto de site para a escola AMAS - O Semeador
 
-### Desenvolvedores:
+## Desenvolvedores:
 
 - Guilherme Loschiavo Alvarez
 - Wilson Bittencourt Sousa Abdon
