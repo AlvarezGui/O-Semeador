@@ -19,4 +19,4 @@ Projeto de site para a escola AMAS - O Semeador
 >
 > ### Links
 >
-> - [Figma] (https://www.figma.com/file/MCwFoLYVJjnhhEWfsUJBkE/O-Semeador?type=design&node-id=0%3A1&mode=design&t=JmXeeX5lCGz4EKeS-1)
+> - [Figma](https://www.figma.com/file/MCwFoLYVJjnhhEWfsUJBkE/O-Semeador?type=design&node-id=0%3A1&mode=design&t=JmXeeX5lCGz4EKeS-1)
