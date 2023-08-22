@@ -12,7 +12,7 @@ Projeto de site para a escola AMAS - O Semeador
 - Wilson Bittencourt Sousa Abdon
 - Pedro Henrique Pereira Cabral
 - Enzo Rodrigues Dourado
-- Adriel Trujilo Vilas-Boas
+- Adriel Trujillo Vilas-Boas
 
 > [!NOTE]
 > Não representamos a instituição
