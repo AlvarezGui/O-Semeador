@@ -3,7 +3,8 @@ Projeto de site para a escola AMAS - O Semeador
 
 ## To Do
 - [ ] Tirar Fotos
-- [ ] Todo o resto
+- [ ] Perguntar ao professor sobre o Framework
+- [ ] Criar Arquivo
 - [ ] Criar UI
 
 ## Desenvolvedores:
