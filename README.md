@@ -3,7 +3,7 @@ Projeto de site para a escola AMAS - O Semeador
 
 Rodar Build: ```npm run dev``` 
 
-[Comandos do git](/git.txt)
+[Comandos do Git](/git.txt)
 
 ## To Do
 - [ ] Tirar Fotos
