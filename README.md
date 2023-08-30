@@ -1,6 +1,8 @@
 # O Semeador
 Projeto de site para a escola AMAS - O Semeador
 
+Rodar Build: ```npm run dev```
+
 ## To Do
 - [ ] Tirar Fotos
 - [X] Perguntar ao professor sobre o Framework
