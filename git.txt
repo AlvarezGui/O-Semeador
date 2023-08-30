@@ -11,3 +11,7 @@ Criando Rep:
 Usando Git
     1 - "git add *" //add tudo que está untracked
     2 - git commit -m "Mensagem"
+
+
+
+ver também: https://dontpad.com/guialvarez-git
