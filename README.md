@@ -1,8 +1,8 @@
 # O Semeador
 Projeto de site para a escola AMAS - O Semeador
 
-Rodar Build: ```npm run dev```
-[Comandos so git](/git.txt)
+Rodar Build: ```npm run dev``` 
+/n [Comandos so git](/git.txt)
 
 ## To Do
 - [ ] Tirar Fotos
