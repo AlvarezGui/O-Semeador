@@ -8,7 +8,7 @@ Rodar Build: ```npm run dev```
 ## To Do
 - [ ] Tirar Fotos
 - [X] Perguntar ao professor sobre o Framework
-- [ ] Criar Arquivo
+- [X] Criar Arquivo
 - [ ] Criar UI
 
 ## Desenvolvedores:
