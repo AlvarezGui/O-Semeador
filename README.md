@@ -6,7 +6,7 @@ Rodar Build: ```npm run dev```
 [Comandos do Git](/git.txt)
 
 ## To Do
-- [ ] Tirar Fotos
+- [X] ~~Tirar Fotos~~
 - [X] Perguntar ao professor sobre o Framework
 - [X] Criar Arquivo
 - [X] Criar UI
