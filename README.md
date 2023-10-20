@@ -9,7 +9,7 @@ Rodar Build: ```npm run dev```
 - [ ] Tirar Fotos
 - [X] Perguntar ao professor sobre o Framework
 - [X] Criar Arquivo
-- [ ] Criar UI
+- [X] Criar UI
 
 ## Desenvolvedores:
 
