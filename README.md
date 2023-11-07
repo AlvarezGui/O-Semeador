@@ -7,9 +7,12 @@ Rodar Build: ```npm run dev```
 
 ## To Do
 - [X] ~~Tirar Fotos~~
-- [X] Perguntar ao professor sobre o Framework
+- [X] ~~Perguntar ao professor sobre o Framework~~
 - [X] Criar Arquivo
 - [X] Criar UI
+- [ ] Arrumar Logo
+- [ ] Arrumar Números
+- [ ] Trocar Imagens
 
 ## Desenvolvedores:
 
