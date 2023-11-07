@@ -13,6 +13,7 @@ Rodar Build: ```npm run dev```
 - [ ] Arrumar Logo
 - [ ] Arrumar Números
 - [ ] Trocar Imagens
+- [ ] Fazer todas as paginas
 
 ## Desenvolvedores:
 
