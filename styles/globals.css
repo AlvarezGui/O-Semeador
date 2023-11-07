@@ -11,6 +11,11 @@ a {
   text-decoration: none;
 }
 
+p{
+  font-weight: 600;
+  font-size: 20px;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -53,4 +58,83 @@ a {
 
 .corLetra{
   color: white;
+}
+
+.tituloLaranja{
+  color: #F87C04;
+  margin-bottom: 20px;
+}
+
+.tituloAzul{
+  color: #0894B4;
+}
+
+.pragrafoDireita{
+  height: 500px;
+  width: 1005px;
+  text-align: center;
+  margin-right: 115px;
+  margin-top: 190px;
+  justify-content: center;
+  float: right;
+}
+
+.pragrafoEsquerda{
+  height: 500px;
+  width: 1005px;
+  text-align: center;
+  margin-left: 115px;
+  margin-top: 190px;
+  justify-content: center;
+  float: left;
+}
+
+.imgEsquerda{
+  float: left;
+  margin-left: 70px;
+  margin-top: 70px;
+}
+
+.imgDireita{
+  float: right;
+  margin-right: 70px;
+  margin-top: 70px;
+}
+
+.espacamento{
+  margin-top: 1400px;
+  justify-self: center;
+}
+
+.tamanhoDivNumeros{
+  display: flex;
+  width: 1350px;
+  height: 200px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tamanhoItens{
+  display: flex;
+  width: 420px;
+  height: 136px;
+  align-items: center;
+}
+
+.itensAzul{
+  background-color: #0894B4;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  justify-items: center;
+  color: white;
+  float: left;
+}
+
+.itensTexto{
+  width: 300px;
+  text-align: center;
+  margin-left: 15px;
+  float: right;
+  justify-self: center;
 }
