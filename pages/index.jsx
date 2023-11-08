@@ -1,4 +1,3 @@
-import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Header from '../components/Header'
@@ -38,25 +37,31 @@ export default function Home() {
 
       {/* Paragrafo 3 */}
       <Container className='espacamento'>
-        
+
         <h1 className='tituloLaranja'> Sua doação mudará o rumo desta história e os alunos continuarão a: </h1>
 
         <div className='tamanhoDivNumeros'>
           {/* 1 */}
           <div className='tamanhoItens'>
-            <h1 className='itensAzul'> 1 </h1>
+            <div className='itensAzul'>
+              <h1 className='h1Insano'> 1 </h1>
+            </div>
             <p className='itensTexto'>Desenvolver a apreciação pela diversidade individual;</p>
           </div>
 
           {/* 2 */}
           <div className='tamanhoItens'>
-            <h1 className='itensAzul'> 2 </h1>
+            <div className='itensAzul'>
+              <h1 className='h1Insano'> 2 </h1>
+            </div>
             <p className='itensTexto'>Adquirir experiência direta com a variação natural das capacidades humanas;</p>
           </div>
           
           {/* 3 */}
           <div className='tamanhoItens'>
-            <h1 className='itensAzul'> 3 </h1>
+            <div className='itensAzul'>
+              <h1 className='h1Insano'> 3 </h1>
+            </div>
             <p className='itensTexto'>Demonstrar crescente responsabilidade e melhora na aprendizagem, através do convívio entre os colegas;</p>
           </div>
         </div>
@@ -64,22 +69,30 @@ export default function Home() {
         <div className='tamanhoDivNumeros'>
           {/* 4 */}
           <div className='tamanhoItens'>
-            <h1 className='itensAzul'> 4 </h1>
+            <div className='itensAzul'>
+              <h1 className='h1Insano'> 4 </h1>
+            </div>
             <p className='itensTexto'>Serem melhores preparados para a vida adulta em uma sociedade diversificada através da educação em salas de aula e materiais especiais;</p>
           </div>
 
           {/* 5 */}
           <div className='tamanhoItens'>
-            <h1 className='itensAzul'> 5 </h1>
+            <div className='itensAzul'>
+              <h1 className='h1Insano'> 5 </h1>
+            </div>
             <p className='itensTexto'>Frequentemente experimentar apoio acadêmico adicional da parte de nossos psicólogos;</p>
           </div>
 
           {/* 6 */}
           <div className='tamanhoItens'>
-            <h1 className='itensAzul'> 6 </h1>
+            <div className='itensAzul'>
+              <h1 className='h1Insano'> 6 </h1>
+            </div>
             <p className='itensTexto'>Vivenciar as experiências de interação e trabalho reais, com parcerias de estágio.</p>
           </div>
         </div>
+
+        <Image className='imagemFinal' src="/1.png" width={600} height={600} alt='foto1'></Image>
 
       </Container>
     </>
