@@ -11,8 +11,8 @@ Rodar Build: ```npm run dev```
 - [X] Criar Arquivo
 - [X] Criar UI
 - [X] Arrumar Números
-- [ ] Arrumar Logo
-- [ ] Acabar Páginas
+- [X] Arrumar Logo
+- [X] Acabar Páginas
 
 ## Desenvolvedores:
 
