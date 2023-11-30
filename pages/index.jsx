@@ -18,8 +18,8 @@ export default function Home() {
           <p>Nosso trabalho se baseia nas diversas formas de linguagem, usando educação, arte, tecnologia, cultura e o lúdico como estratégias para prover o aprendizado, desenvolvimento e formação dos alunos.</p>
         </div>
 
-        <Image className='imgEsquerda' src="/1.png" width={600} height={600} alt='foto1'></Image>
-      </div>
+        <Image className='imgEsquerda' src="/balao.png" width={600} height={600} alt='foto1'></Image>
+      </div> 
 
       {/* Paragrafo 2 */}
       <div>
@@ -32,8 +32,8 @@ export default function Home() {
           <p>Para continuarmos a fornecer aos alunos instalações de amparo, educação de qualidade, e inclusão ativa na sociedade civil, precisamos que você junte-se a nós nessa causa, e seja um Semeador Voluntário.</p>
         </div>
 
-        <Image className='imgDireita' src="/1.png" width={600} height={600} alt='foto1'></Image>
-      </div>
+        <Image className='imgDireita' src="/legos.jpg" width={600} height={600} alt='foto1'></Image>
+      </div> 
 
       {/* Paragrafo 3 */}
       <Container className='espacamento'>
@@ -92,7 +92,7 @@ export default function Home() {
           </div>
         </div>
 
-        <Image className='imagemFinal' src="/1.png" width={600} height={600} alt='foto1'></Image>
+        <Image className='imagemFinal' src="/fila.jpg" width={1920} height={1080} alt='foto1'></Image>
 
       </Container>
     </>

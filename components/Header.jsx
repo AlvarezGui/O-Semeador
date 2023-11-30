@@ -8,7 +8,7 @@ export default function Header(){
         <>
             <Navbar expand="lg" className="bgNav ">
                 <Container>
-                    <Navbar.Brand> <a href="/"> <Image src="/logo.png" width={68.5} height={48} alt='logo'></Image> </a> </Navbar.Brand>
+                    <Navbar.Brand> <a href="/"> <Image src="/image-removebg-preview.png" width={100} height={80} alt='logo'></Image> </a> </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     
                     <Navbar.Collapse id="basic-navbar-nav">
@@ -18,7 +18,7 @@ export default function Header(){
                             <Nav.Link href="/galeria"><h6 className="corLetra">Galeria</h6></Nav.Link>
                             <Nav.Link href="/matriculas"><h6 className="corLetra">Matrículas</h6></Nav.Link>
                             <Nav.Link href="/parcerias"><h6 className="corLetra">Parceiras</h6></Nav.Link>
-                            <Nav.Link href="/contato"><h6 className="corLetra">Contato</h6></Nav.Link>
+                            {/* <Nav.Link href="/contato"><h6 className="corLetra">Contato</h6></Nav.Link> */}
                         </Nav>
                     </Navbar.Collapse>
                    
