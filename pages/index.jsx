@@ -2,6 +2,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Header from '../components/Header'
 import { Container } from 'react-bootstrap'
+import Footer from '../components/Footer'
 
 export default function Home() {
 
@@ -95,6 +96,7 @@ export default function Home() {
         <Image className='imagemFinal' src="/fila.jpg" width={1920} height={1080} alt='foto1'></Image>
 
       </Container>
+      <Footer></Footer>
     </>
   )
 }
