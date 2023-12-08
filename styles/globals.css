@@ -32,27 +32,35 @@ p{
 
 .bgNav{
   height: 86px;
+  width: 130%;
   background-color: #0894B4;
 }
 
 @media only screen and (min-width: 992px) {
   .centroHead{
-      margin: 0 auto;
-      margin-left: 1080px;
+      /* margin: 0 auto; */
+      margin-left: 50%;
   }
 }
 
 @media only screen and (min-width: 1200px) {
   .centroHead{
-      margin: 0 auto;
-      margin-left:1080px;
+      /* margin: 0 auto; */
+      margin-left:50%;
   }
 }
 
 @media only screen and (min-width: 1400px) {
   .centroHead{
-      margin: 0 auto;
-      margin-left:1080px;
+      /* margin: 0 auto; */
+      margin-left: 50%;
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+  .centroHead{
+      /* margin: 0 auto; */
+      margin-left: 100%;
   }
 }
 
@@ -71,7 +79,7 @@ p{
 
 .pragrafoDireita{
   height: 500px;
-  width: 1005px;
+  width: 50%;
   text-align: center;
   margin-right: 115px;
   margin-top: 190px;
@@ -81,7 +89,7 @@ p{
 
 .pragrafoEsquerda{
   height: 500px;
-  width: 1005px;
+  width: 50%;
   text-align: center;
   margin-left: 115px;
   margin-top: 190px;
@@ -93,16 +101,19 @@ p{
   float: left;
   margin-left: 70px;
   margin-top: 70px;
+  height: 79.57559681697613vh;
+  width: 35%;
 }
 
 .imgDireita{
   float: right;
   margin-right: 70px;
   margin-top: 70px;
+  width: 35%;
 }
 
 .espacamento{
-  margin-top: 1400px;
+  margin-top: 100%;
   justify-self: center;
 }
 
@@ -182,7 +193,7 @@ p{
 }
 
 .contIcones{
-  width: 100%;
+  width: 85%;
   display: flex;
   align-items: center;
   justify-content: space-evenly;

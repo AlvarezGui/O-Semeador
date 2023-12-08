@@ -6,6 +6,7 @@ export default function Footer(){
         <>
             <Navbar expand="lg" className="bgNav ">
                    
+                   
                     <div className="contIcones">             
                         {/* <h1 className="corLetra">Contato:</h1> */}
 

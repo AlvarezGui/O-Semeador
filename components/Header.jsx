@@ -18,7 +18,7 @@ export default function Header(){
                             <Nav.Link href="/galeria"><h6 className="corLetra">Galeria</h6></Nav.Link>
                             <Nav.Link href="/matriculas"><h6 className="corLetra">Matrículas</h6></Nav.Link>
                             <Nav.Link href="/parcerias"><h6 className="corLetra">Parceiras</h6></Nav.Link>
-                            <Nav.Link href="http://escolaosemeador.com.br/lp/"><h6 className="corLetra">Doe</h6></Nav.Link>
+                            <Nav.Link href="http://escolaosemeador.com.br/lp/"><h6 className="corLetra">Doação</h6></Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                    
